@@ -55,6 +55,9 @@ img[alt="logo"]{
 .container{
     text-align: center;
 }
+.container img{
+    height: 75px;
+}
 .container:hover{
     text-align: center;
     box-shadow: 2px 2px 8px;
